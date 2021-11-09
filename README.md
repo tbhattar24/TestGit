@@ -1,2 +1,2 @@
 # TestGit
-This is just for testing 
+Commands for the assignments 
